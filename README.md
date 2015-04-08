@@ -1,2 +1,2 @@
 # Work-Desk-Control
-Program Files for controlling 
+Program Files for controlling our desks
